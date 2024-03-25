@@ -1,0 +1,12 @@
+--eastern-blue-50: 239 251 252;
+--eastern-blue-100: 215 242 246;
+--eastern-blue-200: 180 230 237;
+--eastern-blue-300: 128 211 224;
+--eastern-blue-400: 69 182 203;
+--eastern-blue-500: 42 155 178;
+--eastern-blue-600: 37 124 149;
+--eastern-blue-700: 36 101 122;
+--eastern-blue-800: 38 84 100;
+--eastern-blue-900: 35 71 86;
+--eastern-blue-950: 18 46 58;
+
